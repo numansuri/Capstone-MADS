@@ -10,7 +10,7 @@ This project explores the effectiveness of large language models (LLMs), specifi
 
 To run the notebooks on your local machine:
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/numansuri/Capstone-MADS.git
